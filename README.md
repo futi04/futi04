@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram @lilfuat
+- 📫 Instagram @lilfuat
 
 <!---
 futi04/futi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
