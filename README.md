@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @futi04
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Tailwind CSS and React
 - 📫 Instagram @lilfuat
 
 <!---
